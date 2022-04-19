@@ -1,0 +1,20 @@
+.no-dizmo-drag {
+  -webkit-dashboard-region: dashboard-region(control rectangle);
+  --dizmo-no-drag: true;
+
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0.5em;
+  width: 100%;
+  color: white;
+}
+
+#front {
+  height: 100%;
+  width: 100%;
+  -webkit-dashboard-region: dashboard-region(control rectangle);
+}

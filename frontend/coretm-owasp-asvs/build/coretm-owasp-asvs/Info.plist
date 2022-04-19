@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>AllowResize</key>
+    <false/>
+    <key>ApiVersion</key>
+    <string>1.4</string>
+    <key>BundleDisplayName</key>
+    <string>coretm-owasp-asvs</string>
+    <key>BundleIdentifier</key>
+    <string>com.vonderassen.coretm_owasp_asvs</string>
+    <key>BundleName</key>
+    <string>coretm-owasp-asvs</string>
+    <key>BundleShortVersionString</key>
+    <string>0.0.0</string>
+    <key>BundleVersion</key>
+    <string>0.0.0</string>
+    <key>Category</key>
+    <string/>
+    <key>ChangeLog</key>
+    <string>-</string>
+    <key>Description</key>
+    <string>CoReTM OASP ASVS</string>
+    <key>ElementsVersion</key>
+    <string>2.0</string>
+    <key>ForceUpdate</key>
+    <false/>
+    <key>Height</key>
+    <integer>360</integer>
+    <key>HiddenDizmo</key>
+    <false/>
+    <key>MainHTML</key>
+    <string>index.html</string>
+    <key>MinSpaceVersion</key>
+    <string>0.0.0</string>
+    <key>Tags</key>
+    <array>
+      <string>coretm-owasp-asvs</string>
+    </array>
+    <key>TitleEditable</key>
+    <true/>
+    <key>Width</key>
+    <integer>480</integer>
+    <key>Attributes</key>
+    <dict>
+      <key>settings/usercontrols/allowresize</key>
+      <true/>
+      <key>settings/framecolor</key>
+      <string>#2a2a2a</string>
+    </dict>
+  </dict>
+</plist>
