@@ -1,0 +1,3 @@
+[submodule "ASVS"]
+	path = ASVS
+	url = git@github.com:OWASP/ASVS.git
